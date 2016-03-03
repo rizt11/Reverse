@@ -22,4 +22,12 @@ namespace GitProjectConsole
             return new string(input.ToCharArray().Reverse().ToArray());
         }
     }
+
+    static class Util
+    {
+        public static int ToInt32(this string input)
+        {
+            return Convert.ToInt32(input);
+        }
+    }
 }
