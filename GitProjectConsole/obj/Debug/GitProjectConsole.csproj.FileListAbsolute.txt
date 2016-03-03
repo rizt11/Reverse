@@ -4,3 +4,6 @@ c:\users\a.aprizal\documents\visual studio 2015\Projects\GitProjectConsole\GitPr
 c:\users\a.aprizal\documents\visual studio 2015\Projects\GitProjectConsole\GitProjectConsole\obj\Debug\GitProjectConsole.csprojResolveAssemblyReference.cache
 c:\users\a.aprizal\documents\visual studio 2015\Projects\GitProjectConsole\GitProjectConsole\obj\Debug\GitProjectConsole.exe
 c:\users\a.aprizal\documents\visual studio 2015\Projects\GitProjectConsole\GitProjectConsole\obj\Debug\GitProjectConsole.pdb
+F:\GitProjectConsole\GitProjectConsole\bin\Debug\GitProjectConsole.exe.config
+F:\GitProjectConsole\GitProjectConsole\obj\Debug\GitProjectConsole.exe
+F:\GitProjectConsole\GitProjectConsole\obj\Debug\GitProjectConsole.pdb
