@@ -34,5 +34,10 @@ namespace GitProjectConsole
         {
             return Convert.ToInt64(input);
         }
+
+        public static bool ToBoolean(this string input)
+        {
+            return Convert.ToBoolean(input);
+        }
     }
 }
