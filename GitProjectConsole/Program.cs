@@ -13,7 +13,7 @@ namespace GitProjectConsole
         }
 
         /// <summary>
-        /// This is a string reverse
+        /// This is a sample reverse
         /// </summary>
         /// <param name="input">Input string</param>
         /// <returns></returns>
