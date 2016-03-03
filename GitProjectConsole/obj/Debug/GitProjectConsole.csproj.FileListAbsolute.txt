@@ -7,3 +7,6 @@ c:\users\a.aprizal\documents\visual studio 2015\Projects\GitProjectConsole\GitPr
 F:\GitProjectConsole\GitProjectConsole\bin\Debug\GitProjectConsole.exe.config
 F:\GitProjectConsole\GitProjectConsole\obj\Debug\GitProjectConsole.exe
 F:\GitProjectConsole\GitProjectConsole\obj\Debug\GitProjectConsole.pdb
+F:\GPCClone\GitProjectConsole\bin\Debug\GitProjectConsole.exe.config
+F:\GPCClone\GitProjectConsole\obj\Debug\GitProjectConsole.exe
+F:\GPCClone\GitProjectConsole\obj\Debug\GitProjectConsole.pdb
