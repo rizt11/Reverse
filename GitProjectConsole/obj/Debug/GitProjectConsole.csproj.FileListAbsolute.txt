@@ -10,3 +10,6 @@ F:\GitProjectConsole\GitProjectConsole\obj\Debug\GitProjectConsole.pdb
 F:\GPCClone\GitProjectConsole\bin\Debug\GitProjectConsole.exe.config
 F:\GPCClone\GitProjectConsole\obj\Debug\GitProjectConsole.exe
 F:\GPCClone\GitProjectConsole\obj\Debug\GitProjectConsole.pdb
+F:\R\Reverse\GitProjectConsole\bin\Debug\GitProjectConsole.exe.config
+F:\R\Reverse\GitProjectConsole\obj\Debug\GitProjectConsole.exe
+F:\R\Reverse\GitProjectConsole\obj\Debug\GitProjectConsole.pdb
