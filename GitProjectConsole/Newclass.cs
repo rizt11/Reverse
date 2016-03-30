@@ -9,5 +9,11 @@ namespace GitProjectConsole
     class Newclass
     {
         // Sample new class
+        class Data
+        {
+            public string name;
+            public string id;
+            public int age;
+        }
     }
 }
